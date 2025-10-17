@@ -1,7 +1,7 @@
 # 🍦 Ice Cream Company Sales Analysis Dashboard (Power BI)
 
 <p align="center">
-  <img src="https://github.com/Basavaraj0127/POWER-BI-DASHBOARD/blob/main/Ice-Cream%20Company%20Sales%20Analysis/Dashboard/dashboard.jpg?raw=true" alt="Ice Cream Company Sales Analysis Banner" width="100%">
+  <img src="https://github.com/Basavaraj0127/POWER-BI-DASHBOARD/blob/main/Ice-Cream%20Company%20Sales%20Analysis/Dashboard/banner2.jpg?raw=true" alt="Ice Cream Company Sales Analysis Banner" width="100%">
 </p>
 
 <p align="center">
@@ -52,6 +52,7 @@ Ice-Cream Company Sales Analysis/
 │
 ├── Dashboard/
 │   ├── Ice_Cream_Sales_Analysis.pbix
+│   ├── banner2.jpg
 │   └── dashboard.jpg
 │
 ├── Datasets/
@@ -61,17 +62,11 @@ Ice-Cream Company Sales Analysis/
 │   ├── SalesRep.xlsx
 │   ├── SubCategories.xlsx
 │   └── Sales_by_Year/
-│       ├── Sales_2021.xlsx
-│       ├── Sales_2022.xlsx
-│       └── Sales_2023.xlsx
-│
-├── Supporting Files/
-│   ├── Data_Model_Screenshot.png
-│   ├── DAX_Measures.txt
-│   └── BRD_Document.pdf
-│
-└── Images/
-    └── banner.png
+│       ├── Sales_2014.xlsx
+│       ├── Sales_2015.xlsx
+│       └── Sales_2016.xlsx
+|       └── Sales_2017.xlsx
+
 ```
 
 ---
@@ -130,5 +125,4 @@ QoQ Growth % = DIVIDE(([Total Revenue] - [Prev Quarter Revenue]), [Prev Quarter 
 ## 👨‍💻 Author
 
 **[Basavaraj Chakalabbi](https://github.com/Basavaraj0127)**  
-[LinkedIn Profile](https://www.linkedin.com/in/basavaraj-chakalabbi)  
 _Data Analyst | Power BI Developer | Business Insights Enthusiast_
