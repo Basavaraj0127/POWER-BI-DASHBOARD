@@ -1,7 +1,7 @@
 # 🍦 Ice Cream Company Sales Analysis Dashboard (Power BI)
 
 <p align="center">
-  <img src="https://github.com/Basavaraj0127/POWER-BI-DASHBOARD/blob/main/Ice-Cream%20Company%20Sales%20Analysis/Dashboard/banner2.jpg?raw=true" alt="Ice Cream Company Sales Analysis Banner" width="100%">
+  <img src="https://github.com/Basavaraj0127/POWER-BI-DASHBOARD/blob/main/Ice-Cream%20Company%20Sales%20Analysis/Dashboard/banner2.jpg?raw=true" alt="Ice Cream Company Sales Analysis Banner" width="20%">
 </p>
 
 <p align="center">
