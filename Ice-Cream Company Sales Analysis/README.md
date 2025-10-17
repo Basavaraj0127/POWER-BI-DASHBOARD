@@ -1,7 +1,7 @@
 # 🍦 Ice Cream Company Sales Analysis Dashboard (Power BI)
 
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdataaspirant.com%2Fcredit-card-fraud-detection-classification-algorithms-python%2F&psig=AOvVaw2K3HWXd_k5exo9xokjITQW&ust=1760795258052000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMiK3NKvq5ADFQAAAAAdAAAAABAE" alt="Ice Cream Company Sales Analysis Banner" width="100%">
+  <img src="https://github.com/Basavaraj0127/POWER-BI-DASHBOARD/blob/main/Ice-Cream%20Company%20Sales%20Analysis/Dashboard/dashboard.jpg?raw=true" alt="Ice Cream Company Sales Analysis Banner" width="100%">
 </p>
 
 <p align="center">
@@ -52,7 +52,7 @@ Ice-Cream Company Sales Analysis/
 │
 ├── Dashboard/
 │   ├── Ice_Cream_Sales_Analysis.pbix
-│   └── Ice_Cream_Sales_Analysis.png
+│   └── dashboard.jpg
 │
 ├── Datasets/
 │   ├── Categories.xlsx
@@ -79,7 +79,7 @@ Ice-Cream Company Sales Analysis/
 ## 📈 Dashboard Preview
 
 <p align="center">
-  <img src="https://github.com/Basavaraj0127/POWER-BI-DASHBOARD/blob/main/Ice-Cream%20Company%20Sales%20Analysis/dashboard.jpg?raw=true" alt="Ice Cream Sales Analysis Dashboard" width="90%">
+  <img src="https://github.com/Basavaraj0127/POWER-BI-DASHBOARD/blob/main/Ice-Cream%20Company%20Sales%20Analysis/Dashboard/dashboard.jpg?raw=true" alt="Ice Cream Sales Analysis Dashboard" width="90%">
 </p>
 
 ---
@@ -132,4 +132,3 @@ QoQ Growth % = DIVIDE(([Total Revenue] - [Prev Quarter Revenue]), [Prev Quarter 
 **[Basavaraj Chakalabbi](https://github.com/Basavaraj0127)**  
 [LinkedIn Profile](https://www.linkedin.com/in/basavaraj-chakalabbi)  
 _Data Analyst | Power BI Developer | Business Insights Enthusiast_
-
