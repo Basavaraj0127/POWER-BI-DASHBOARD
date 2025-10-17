@@ -1,8 +1,6 @@
 # 📊 Power BI Dashboard Portfolio – by Basavaraj Chakalabbi
 
-<p align="center">
-  <img src="https://github.com/Basavaraj0127/POWER-BI-DASHBOARD/blob/main/banner.jpg?raw=true" alt="Power BI Portfolio Banner" width="100%">
-</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI Badge">
