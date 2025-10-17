@@ -126,3 +126,8 @@ QoQ Growth % = DIVIDE(([Total Revenue] - [Prev Quarter Revenue]), [Prev Quarter 
 
 **[Basavaraj Chakalabbi](https://github.com/Basavaraj0127)**  
 _Data Analyst | Power BI Developer | Business Insights Enthusiast_
+
+---
+
+> *"Great dashboards don’t just show data — they tell stories that drive decisions."*  
+⭐ *If you found this project insightful, don’t forget to star the repo!*
