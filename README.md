@@ -1,7 +1,5 @@
 # 📊 Power BI Dashboard Portfolio – by Basavaraj Chakalabbi
 
-
-
 <p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI Badge">
   <img src="https://img.shields.io/badge/Data%20Visualization-0078D4?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Visualization Badge">
@@ -28,8 +26,9 @@ Each project focuses on **real-world business problems**, leveraging:
 
 | Project | Description | Tools Used | Link |
 |----------|--------------|-------------|------|
+| 🚖 **OLA Data Analytics Dashboard** | An interactive dashboard analyzing ride trends, cancellations, revenues & customer ratings. | Power BI, SQL, Excel, DAX | [View Project →](https://github.com/Basavaraj0127/POWER-BI-DASHBOARD/tree/main/OLA%20Dashboard%20Using%20SQl) |
 | 🍦 **Ice Cream Company Sales Analysis** | One-page sales dashboard showing key revenue, profit, and product trends with time intelligence. | Power BI, Excel, DAX | [View Project →](https://github.com/Basavaraj0127/POWER-BI-DASHBOARD/tree/main/Ice-Cream%20Company%20Sales%20Analysis) |
-| 🔜 **Coming Soon...** | New dashboards will be added here (Retail, Finance, Supply Chain, etc.) | Power BI | — |
+| 🔜 **Coming Soon...** | New dashboards will be added here (Retail, Finance, Supply Chain, HR Analytics, etc.) | Power BI | — |
 
 ---
 
@@ -39,6 +38,7 @@ Each project focuses on **real-world business problems**, leveraging:
 - **DAX** – Calculations, KPIs, and Time Intelligence  
 - **Data Modeling** – Star Schema, Relationships, Fact & Dimension Tables  
 - **Power Query** – Data Cleaning, Transformation & Integration  
+- **SQL** – Querying, Joins, Aggregations, and View Creation  
 - **Excel** – Source Data Preparation  
 - **Business Analytics** – Insight Derivation & Storytelling  
 
@@ -49,6 +49,7 @@ Each project focuses on **real-world business problems**, leveraging:
 <p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
   <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/DAX-00599C?style=for-the-badge&logo=data&logoColor=white">
   <img src="https://img.shields.io/badge/Data%20Modeling-FF6F00?style=for-the-badge&logo=databricks&logoColor=white">
   <img src="https://img.shields.io/badge/Power%20Query-7FBA00?style=for-the-badge&logo=powerapps&logoColor=white">
@@ -61,7 +62,7 @@ Each project focuses on **real-world business problems**, leveraging:
 **👨‍💻 Basavaraj Chakalabbi**  
 📊 *Data Analyst | Power BI Developer | Business Insights Enthusiast*  
 🔗 [GitHub Profile](https://github.com/Basavaraj0127)  
-💼 [LinkedIn Profile](https://www.linkedin.com/in/basavaraj-chakalabbi)
+💼 [LinkedIn Profile](https://www.linkedin.com/in/basavaraj-chakalabbi)  
 
 ---
 
@@ -72,7 +73,16 @@ Each project focuses on **real-world business problems**, leveraging:
    - 📄 Project README  
    - 📊 Dashboard preview  
    - 🧮 DAX Measures  
+   - 🧾 SQL Scripts (if used)  
    - 📁 Dataset details  
+
+---
+
+## 👨‍💻 My GitHub Portfolio
+
+👉 [https://github.com/Basavaraj0127](https://github.com/Basavaraj0127)
+
+⭐ *Follow for more Power BI & Data Analytics projects!*
 
 ---
 
@@ -80,5 +90,3 @@ Each project focuses on **real-world business problems**, leveraging:
 
 > *“Data becomes powerful only when it tells a story — that’s where dashboards make the difference.”*  
 ⭐ *If you enjoy these projects, consider starring this repo!*
-
----
