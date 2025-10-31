@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Basavaraj0127/POWER-BI-DASHBOARD/raw/main/OLA%20Dashboard%20Using%20SQl/Dashboard/OLA%20LOGO.png" alt="OLA Power BI Dashboard Banner" width="100%">
+  <img src="https://github.com/Basavaraj0127/POWER-BI-DASHBOARD/raw/main/OLA%20Dashboard%20Using%20SQl/Dashboard/OLA%20LOGO.png" alt="OLA Power BI Dashboard Banner" width="60%">
 </p>
 
 
