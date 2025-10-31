@@ -13,6 +13,12 @@
   <img src="https://img.shields.io/badge/Data%20Analysis-4CAF50?style=for-the-badge&logo=Databricks&logoColor=white" alt="Data Analysis Badge">
 </p>
 
+## 👨‍💻 Author
+
+**Basavaraj Chakalabbi**  
+📍 *Data Analyst | Power BI | SQL | Excel | Machine Learning*  
+🔗 **[GitHub Profile](https://github.com/Basavaraj0127)*
+
 ---
 ## 🔗 Project Link
 
@@ -245,24 +251,5 @@ FROM bookings
 WHERE Incomplete_Rides = 'Yes';
 
 ---
-
-## 📂 Project Files
-
-- 📊 **Power BI Dashboard** (`.pbix`)  
-- 🧾 **SQL Scripts** (`.sql`)  
-- 📘 **Project Report** (`.pdf`)  
-- 📝 **README File** (`.md`)  
-
- 
-
----
-
-## 👨‍💻 Author
-
-**Basavaraj Chakalabbi**  
-📍 *Data Analyst | Power BI | SQL | Excel | Machine Learning*  
-🔗 **[GitHub Profile](https://github.com/Basavaraj0127)**  
-
-⭐ *If you found this project helpful, don’t forget to star the repo!*
 
 
