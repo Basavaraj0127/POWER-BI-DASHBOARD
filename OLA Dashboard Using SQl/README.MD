@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Ola_Cabs_logo.svg" alt="OLA Logo" width="250">
+  <img src="https://github.com/Basavaraj0127/POWER-BI-DASHBOARD/raw/main/OLA%20Dashboard%20Using%20SQl/Dashboard/OLA%20LOGO.png" alt="OLA Power BI Dashboard Banner" width="100%">
 </p>
+
 
 <h1 align="center">🚖 OLA Data Analytics Dashboard</h1>
 
