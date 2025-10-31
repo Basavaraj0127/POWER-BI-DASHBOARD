@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img src="images/ola_dashboard_banner.png" alt="OLA Power BI Dashboard Banner" width="100%">
+  <img src="https://github.com/Basavaraj0127/POWER-BI-DASHBOARD/raw/main/OLA%20Dashboard%20Using%20SQl/Dashboard/ola_dashboard_banner.png" alt="OLA Power BI Dashboard Banner" width="100%">
 </p>
 
 <h1 align="center">🚖 OLA Data Analytics Dashboard</h1>
@@ -43,18 +42,22 @@ This project aims to:
 ## 📸 Dashboard Preview
 
 <p align="center">
-  <img src="images/dashboard_overview.png" width="45%" />
-  <img src="images/revenue_dashboard.png" width="45%" />
+  <img src="https://github.com/Basavaraj0127/POWER-BI-DASHBOARD/raw/main/OLA%20Dashboard%20Using%20SQl/Dashboard/dashboard_overview.png" width="45%" />
+  <img src="https://github.com/Basavaraj0127/POWER-BI-DASHBOARD/raw/main/OLA%20Dashboard%20Using%20SQl/Dashboard/revenue_dashboard.png" width="45%" />
 </p>
 <p align="center">
-  <img src="images/cancellation_dashboard.png" width="45%" />
-  <img src="images/ratings_dashboard.png" width="45%" />
+  <img src="https://github.com/Basavaraj0127/POWER-BI-DASHBOARD/raw/main/OLA%20Dashboard%20Using%20SQl/Dashboard/cancellation_dashboard.png" width="45%" />
+  <img src="https://github.com/Basavaraj0127/POWER-BI-DASHBOARD/raw/main/OLA%20Dashboard%20Using%20SQl/Dashboard/ratings_dashboard.png" width="45%" />
 </p>
 <p align="center">
-  <img src="images/vehicle_analysis_dashboard.png" width="90%" />
+  <img src="https://github.com/Basavaraj0127/POWER-BI-DASHBOARD/raw/main/OLA%20Dashboard%20Using%20SQl/Dashboard/vehicle_analysis_dashboard.png" width="90%" />
 </p>
 
 ---
+
+*… (rest of README remains unchanged) …*
+
+
 
 ## 🟢 Overall Dashboard Insights
 
