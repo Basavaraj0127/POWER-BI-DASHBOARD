@@ -248,6 +248,17 @@ WHERE Incomplete_Rides = 'Yes';
 - 📘 **Project Report** (`.pdf`)  
 - 📝 **README File** (`.md`)  
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---
+
+## 📂 Project Files
+
+- 📊 **Power BI Dashboard** (`.pbix`)  
+- 🧾 **SQL Scripts** (`.sql`)  
+- 📘 **Project Report** (`.pdf`)  
+- 📝 **README File** (`.md`)  
+
 ---
 
 ## 🔗 Project Link
@@ -258,8 +269,10 @@ WHERE Incomplete_Rides = 'Yes';
 
 ## 👨‍💻 Author
 
-**[Basavaraj Chakalabbi](https://github.com/Basavaraj0127)**  
+**Basavaraj Chakalabbi**  
 📍 *Data Analyst | Power BI | SQL | Excel | Machine Learning*  
+🔗 **[GitHub Profile](https://github.com/Basavaraj0127)**  
 
 ⭐ *If you found this project helpful, don’t forget to star the repo!*
+
 
