@@ -14,6 +14,11 @@
 </p>
 
 ---
+## 🔗 Project Link
+
+👉 **[View Complete Project on GitHub](https://github.com/Basavaraj0127/POWER-BI-DASHBOARD/tree/main/OLA%20Dashboard%20Using%20SQl)**  
+
+---
 
 ## 📊 Project Overview
 
@@ -248,22 +253,7 @@ WHERE Incomplete_Rides = 'Yes';
 - 📘 **Project Report** (`.pdf`)  
 - 📝 **README File** (`.md`)  
 
---------------------------------------------------------------------------------------------------------------------------------------------------------
-
----
-
-## 📂 Project Files
-
-- 📊 **Power BI Dashboard** (`.pbix`)  
-- 🧾 **SQL Scripts** (`.sql`)  
-- 📘 **Project Report** (`.pdf`)  
-- 📝 **README File** (`.md`)  
-
----
-
-## 🔗 Project Link
-
-👉 **[View Complete Project on GitHub](https://github.com/Basavaraj0127/POWER-BI-DASHBOARD/tree/main/OLA%20Dashboard%20Using%20SQl)**  
+ 
 
 ---
 
