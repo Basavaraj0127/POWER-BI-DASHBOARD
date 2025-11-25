@@ -26,8 +26,9 @@ Each project focuses on **real-world business problems**, leveraging:
 
 | Project | Description | Tools Used | Link |
 |----------|--------------|-------------|------|
-| 🚖 **OLA Data Analytics Dashboard** | An interactive dashboard analyzing ride trends, cancellations, revenues & customer ratings. | Power BI, SQL, Excel, DAX | [View Project →](https://github.com/Basavaraj0127/POWER-BI-DASHBOARD/tree/main/OLA%20Dashboard%20Using%20SQl) |
+| 🚖 **OLA Data Analytics Dashboard** | Interactive dashboard analyzing ride trends, cancellations, revenues & customer ratings. | Power BI, SQL, Excel, DAX | [View Project →](https://github.com/Basavaraj0127/POWER-BI-DASHBOARD/tree/main/OLA%20Dashboard%20Using%20SQl) |
 | 🍦 **Ice Cream Company Sales Analysis** | One-page sales dashboard showing key revenue, profit, and product trends with time intelligence. | Power BI, Excel, DAX | [View Project →](https://github.com/Basavaraj0127/POWER-BI-DASHBOARD/tree/main/Ice-Cream%20Company%20Sales%20Analysis) |
+| 🛡️ **PolicyPulse – Insurance Premium & Payout Analytics Dashboard** | Complete insurance analytics dashboard with KPIs such as premium paid vs payable, maturity payouts, agent performance, and state-wise trends. Based on real business case insights. | Power BI, Power Query, DAX, Excel | [View Project →](https://github.com/Basavaraj0127/POWER-BI-DASHBOARD/tree/main/PolicyPulse%20%E2%80%93%20Insurance%20Premium%20%26%20Payout%20Analytics%20Dashboard) |
 | 🔜 **Coming Soon...** | New dashboards will be added here (Retail, Finance, Supply Chain, HR Analytics, etc.) | Power BI | — |
 
 ---
@@ -80,7 +81,7 @@ Each project focuses on **real-world business problems**, leveraging:
 
 ## 👨‍💻 My GitHub Portfolio
 
-👉 [https://github.com/Basavaraj0127](https://github.com/Basavaraj0127)
+👉 https://github.com/Basavaraj0127
 
 ⭐ *Follow for more Power BI & Data Analytics projects!*
 
