@@ -108,3 +108,42 @@ Maturity payouts rise until 2020 and stabilize around **4–5B** (Page 6).
 
 ## 🛠 Tech Stack Architecture
 
+
+---
+
+## 📂 Project Files
+- `Insurance dashboard cp1.pdf` (Dashboard Report)  
+- `.pbix` (to be added)
+
+---
+
+## 🎯 Business Benefits
+- Improved premium tracking  
+- Transparent agent & region performance  
+- Better understanding of policy-type profitability  
+- Forecasting insights for maturity payouts  
+- Faster & accurate reporting  
+
+---
+
+## 📝 How to Use
+1. Open the `.pbix` file in Power BI  
+2. Refresh the dataset  
+3. Use slicers for:
+   - Policy Type  
+   - Year  
+   - State  
+   - Agent  
+   - Occupation  
+4. Drill through visuals for deeper analysis  
+
+---
+
+## ⭐ Author
+**Basavaraj Chakalabbi**  
+_Data Analyst | Power BI | SQL | Excel | Python_
+
+🔗 GitHub: https://github.com/Basavaraj0127
+
+
+
