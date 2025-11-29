@@ -1,80 +1,121 @@
-# create_uber_gif.py
-# Requirements: Pillow (pip install pillow)
-# Place this script on the machine that has the image files (overview.jpg, vehicle.jpg, revenue.jpg, rider.jpg, location.jpg, Customer.jpg)
-# Then run: python create_uber_gif.py
+# 🚖 Uber Analytics Dashboard – Power BI  
+[![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-F2C811?logo=powerbi&logoColor=black)]()  
+[![Status](https://img.shields.io/badge/Status-Completed-brightgreen)]()  
+[![Data Size](https://img.shields.io/badge/Data-104K_Rides-blue)]()  
+[![Tech Stack](https://img.shields.io/badge/Tech-PowerQuery%20%7C%20DAX%20%7C%20Modeling-orange)]()  
 
-from PIL import Image, ImageDraw, ImageFont
-import os
+🔗 **Project Link:**  
+https://github.com/Basavaraj0127/POWER-BI-DASHBOARD/tree/main/UBER%20DASHBOARD  
 
-# --- CONFIG ---
-image_folder = "./"  # folder where images are stored (adjust if needed)
-image_files = [
-    "overview.jpg",
-    "vehicle.jpg",
-    "revenue.jpg",
-    "rider.jpg",
-    "location.jpg",
-    "Customer.jpg"
-]
-output_gif = "uber_dashboard.gif"
-frame_duration_ms = 1200   # milliseconds per frame
-loop_forever = 0           # 0 means loop forever; use 1 for play twice, etc.
-resize_to = None           # (width, height) or None to keep first image's size
-add_title_frame = False    # set True to prepend a title frame
-title_text = "Uber Power BI Dashboard"
-title_duration_ms = 1200
+---
 
-# --- Helper: create title frame (optional) ---
-def make_title_frame(size, text, font_path=None):
-    img = Image.new("RGB", size, color=(255, 255, 255))
-    draw = ImageDraw.Draw(img)
-    # try to load a reasonable font; fallback to default
-    try:
-        font = ImageFont.truetype(font_path or "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", 48)
-    except Exception:
-        font = ImageFont.load_default()
-    w, h = draw.textsize(text, font=font)
-    x = (size[0] - w) // 2
-    y = (size[1] - h) // 2
-    draw.text((x, y), text, fill=(20, 20, 20), font=font)
-    return img
+<div align="center">
 
-# --- Load images ---
-images = []
-for fname in image_files:
-    path = os.path.join(image_folder, fname)
-    if not os.path.isfile(path):
-        raise FileNotFoundError(f"Image not found: {path}")
-    images.append(Image.open(path).convert("RGB"))
+## 🎞️ **Uber Dashboard — Animated Preview**
+<img src="https://github.com/Basavaraj0127/POWER-BI-DASHBOARD/blob/main/UBER%20DASHBOARD/IMAGES/uber_dashboard.gif" width="900"/>
 
-# Resize all frames to match the first image (or custom size)
-base_size = resize_to if resize_to else images[0].size
-if resize_to:
-    base_size = resize_to
-images = [img.resize(base_size, Image.LANCZOS) for img in images]
+</div>
 
-# Optionally prepend a title frame
-frames = []
-if add_title_frame:
-    frames.append(make_title_frame(base_size, title_text))
-frames.extend(images)
+---
 
-# Save as GIF
-# durations: PIL accepts `duration` (ms) for all frames, or a list of durations per frame
-durations = []
-if add_title_frame:
-    durations.append(title_duration_ms)
-durations.extend([frame_duration_ms] * len(images))
+## 📌 Project Overview  
+This Power BI dashboard provides a complete analytical view of Uber’s operations—covering bookings, revenue, customer trends, vehicle performance, and location analytics.
 
-frames[0].save(
-    output_gif,
-    save_all=True,
-    append_images=frames[1:],
-    duration=durations,
-    loop=loop_forever,
-    optimize=False,
-    quality=95
-)
+Key dashboard features include:
+- Interactive multi-page navigation  
+- Show/Hide filter panel  
+- Monthly & Quarterly time toggles  
+- KPI cards, charts, tables & visual insights  
 
-print(f"Saved GIF: {os.path.abspath(output_gif)}")
+---
 
+## 🎯 Business Requirements Covered  
+
+### **1️⃣ Overview Page**
+- KPIs → Completed, Lost, Revenue, Distance, Avg Distance  
+- Monthly & Quarterly trends  
+- Revenue by Vehicle Type  
+- Top Pickup & Drop Locations  
+- Driver & Customer Ratings  
+
+### **2️⃣ Vehicle Page**
+- Vehicle-wise bookings  
+- Revenue contribution  
+- Avg Distance  
+- Completed vs Lost Bookings  
+
+### **3️⃣ Revenue Page**
+- Revenue by Customers  
+- Revenue by Vehicle  
+- Revenue by Payment Method  
+- Monthly & Quarterly Revenue  
+
+### **4️⃣ Rider Page**
+- Cancellation Reasons  
+- Payment Method Patterns  
+- Monthly Customer Trends  
+- Rider Types → First-time, Return, Regular  
+
+### **5️⃣ Location Page**
+- Busy Time Slots  
+- Top Pickup Areas  
+- Total Distance by Vehicle Type  
+- Monthly Distance Trend  
+
+---
+
+## 📊 Key Metrics (From Dashboard)
+
+| Metric | Value |
+|--------|--------|
+| **Completed Bookings** | **93K** |
+| **Lost Bookings** | **57K** |
+| **Total Revenue** | **₹52M** |
+| **Total Distance** | **2.51M km** |
+| **Avg Distance** | **24.64 km** |
+
+---
+
+## 🚘 Important Insights  
+- **Auto** produces the highest revenue (~₹13M).  
+- **UPI** dominates as the most used payment method (37K+ users).  
+- Peak demand hours → **6–9 PM** & **9 AM–12 PM**.  
+- Top pickup hotspots → **Khandsa**, **Barakhamba**, **Saket**.  
+- January shows the highest monthly rider volume (~12.5K).  
+
+---
+
+## 🛠 Tech Stack Used  
+- Power BI Desktop  
+- Power Query  
+- DAX Measures  
+- Star Schema Data Modeling  
+- Custom Icons & Page Navigation  
+
+---
+
+## 🚀 How to Use This Dashboard  
+1. Clone the repo  
+2. Open the `.pbix` file in Power BI Desktop  
+3. Navigate using left sidebar icons  
+4. Use Show/Hide filters for deep dives  
+5. Switch between Month/Quarter toggles  
+
+---
+
+## 🔮 Future Improvements  
+- Predictive Demand Forecasting  
+- Driver Performance Model  
+- Heatmap with Live Geo-data  
+- Customer Lifetime Value (CLV) Segmentation  
+
+---
+
+# 👤 Author  
+**Basavaraj Chakalabbi**  
+🔗 GitHub: https://github.com/Basavaraj0127  
+📌 Repository: **POWER-BI-DASHBOARD**
+
+---
+
+⭐ *If you like this project, please star the repository!* ⭐
