@@ -12,13 +12,14 @@
 ## 👋 About This Repository
 
 Welcome to my **Power BI Dashboard Portfolio**!  
-This repository showcases a collection of **interactive dashboards**, **data models**, and **business intelligence reports** built to analyze and visualize key metrics across industries.  
+This repository showcases a collection of **interactive dashboards**, **data models**, and **business intelligence reports** built to analyze and visualize key metrics across industries.
 
 Each project focuses on **real-world business problems**, leveraging:
+
 - 📈 **Power BI** for end-to-end dashboarding  
-- 🧩 **DAX** for powerful measures and KPIs  
+- 🧩 **DAX** for powerful KPIs & measures  
 - 🧹 **Power Query** for data transformation  
-- 📊 **Data storytelling** for decision-making impact  
+- 📊 **Data storytelling** for impactful insights  
 
 ---
 
@@ -26,22 +27,23 @@ Each project focuses on **real-world business problems**, leveraging:
 
 | Project | Description | Tools Used | Link |
 |----------|--------------|-------------|------|
+| 🚖 **Uber Analytics Dashboard** | End-to-end Power BI dashboard analyzing Uber rides, revenue, lost bookings, time slots, top pickup points & customer insights. Comes with animated GIF preview. | Power BI, Power Query, DAX | [View Project →](https://github.com/Basavaraj0127/POWER-BI-DASHBOARD/tree/main/UBER%20DASHBOARD) |
 | 🚖 **OLA Data Analytics Dashboard** | Interactive dashboard analyzing ride trends, cancellations, revenues & customer ratings. | Power BI, SQL, Excel, DAX | [View Project →](https://github.com/Basavaraj0127/POWER-BI-DASHBOARD/tree/main/OLA%20Dashboard%20Using%20SQl) |
-| 🍦 **Ice Cream Company Sales Analysis** | One-page sales dashboard showing key revenue, profit, and product trends with time intelligence. | Power BI, Excel, DAX | [View Project →](https://github.com/Basavaraj0127/POWER-BI-DASHBOARD/tree/main/Ice-Cream%20Company%20Sales%20Analysis) |
-| 🛡️ **PolicyPulse – Insurance Premium & Payout Analytics Dashboard** | Complete insurance analytics dashboard with KPIs such as premium paid vs payable, maturity payouts, agent performance, and state-wise trends. Based on real business case insights. | Power BI, Power Query, DAX, Excel | [View Project →](https://github.com/Basavaraj0127/POWER-BI-DASHBOARD/tree/main/PolicyPulse%20%E2%80%93%20Insurance%20Premium%20%26%20Payout%20Analytics%20Dashboard) |
-| 🔜 **Coming Soon...** | New dashboards will be added here (Retail, Finance, Supply Chain, HR Analytics, etc.) | Power BI | — |
+| 🍦 **Ice Cream Company Sales Analysis** | One-page sales dashboard showing key revenue, profit, and product trends using time-intelligence DAX. | Power BI, Excel, DAX | [View Project →](https://github.com/Basavaraj0127/POWER-BI-DASHBOARD/tree/main/Ice-Cream%20Company%20Sales%20Analysis) |
+| 🛡️ **PolicyPulse – Insurance Premium & Payout Analytics Dashboard** | Insurance analytics dashboard with KPIs such as premium paid, payable, payouts, agent performance & state-wise metrics. | Power BI, Power Query, DAX, Excel | [View Project →](https://github.com/Basavaraj0127/POWER-BI-DASHBOARD/tree/main/PolicyPulse%20%E2%80%93%20Insurance%20Premium%20%26%20Payout%20Analytics%20Dashboard) |
+| 🔜 **Coming Soon...** | New dashboards such as Retail, Supply Chain, HR, Finance & E-commerce analytics will be added soon. | Power BI | — |
 
 ---
 
 ## 🧠 Skills Highlighted
 
-- **Power BI Desktop** – Dashboard Design & Interactivity  
-- **DAX** – Calculations, KPIs, and Time Intelligence  
-- **Data Modeling** – Star Schema, Relationships, Fact & Dimension Tables  
-- **Power Query** – Data Cleaning, Transformation & Integration  
-- **SQL** – Querying, Joins, Aggregations, and View Creation  
-- **Excel** – Source Data Preparation  
-- **Business Analytics** – Insight Derivation & Storytelling  
+- **Power BI Desktop** – Dashboard Design, Bookmarks, Navigation  
+- **DAX** – KPIs, Time Intelligence, Calculated Tables  
+- **Data Modeling** – Star Schema, Relationship Design  
+- **Power Query** – ETL, Data Cleaning, Merging, Appending  
+- **SQL** – Aggregations, Joins, Views, Filters  
+- **Excel** – Base datasets & preprocessing  
+- **Analytics** – Business insight generation & storytelling  
 
 ---
 
@@ -62,26 +64,33 @@ Each project focuses on **real-world business problems**, leveraging:
 
 **👨‍💻 Basavaraj Chakalabbi**  
 📊 *Data Analyst | Power BI Developer | Business Insights Enthusiast*  
-🔗 [GitHub Profile](https://github.com/Basavaraj0127)  
-💼 [LinkedIn Profile](https://www.linkedin.com/in/basavaraj-chakalabbi)  
+
+🔗 **GitHub:** https://github.com/Basavaraj0127  
+🔗 **LinkedIn:** https://www.linkedin.com/in/basavaraj-chakalabbi  
 
 ---
 
 ## 🏁 How to Explore
 
-1. Browse through the folders for each project.  
-2. Each project folder includes:
+1. Open any project folder to view:
    - 📄 Project README  
-   - 📊 Dashboard preview  
+   - 🎞️ Dashboard GIF / Images  
    - 🧮 DAX Measures  
    - 🧾 SQL Scripts (if used)  
-   - 📁 Dataset details  
+   - 📁 Dataset / Data Model  
+
+2. Most dashboards include:
+   - KPI Cards  
+   - Time-Series Analysis  
+   - Geo-Maps  
+   - Customer Segmentation  
+   - Revenue & Trend Insights  
 
 ---
 
 ## 👨‍💻 My GitHub Portfolio
 
-👉 https://github.com/Basavaraj0127
+👉 **https://github.com/Basavaraj0127**
 
 ⭐ *Follow for more Power BI & Data Analytics projects!*
 
@@ -90,4 +99,5 @@ Each project focuses on **real-world business problems**, leveraging:
 ## ✨ Quote
 
 > *“Data becomes powerful only when it tells a story — that’s where dashboards make the difference.”*  
-⭐ *If you enjoy these projects, consider starring this repo!*
+
+✨ If you find these dashboards useful, **please star the repository!** ⭐
